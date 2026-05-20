@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@test.com",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "employee@test.com",
+      "password": "1234",
+      "role": "employee"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Angular Project",
+      "status": "Pending"
+    },
+    {
+      "id": "2",
+      "title": "RxJS Learning",
+      "status": "Completed"
+    },
+    {
+      "title": "ddf",
+      "status": "Pending",
+      "id": "7StRp4axzv0"
+    },
+    {
+      "title": "nn",
+      "status": "Pending",
+      "id": "OXLGgdHXwog"
+    },
+    {
+      "title": "vbcb",
+      "status": "Pending",
+      "id": "Jopi7PtZMJ0"
+    },
+    {
+      "title": "1",
+      "status": "Pending",
+      "id": "Q_GVoOVZ24M"
+    },
+    {
+      "title": "2",
+      "status": "Pending",
+      "id": "vHWfUwoL5SI"
+    },
+    {
+      "title": "3",
+      "status": "Pending",
+      "id": "r-OHc6yGMqs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
