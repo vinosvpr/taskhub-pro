@@ -1,0 +1,1 @@
+import{ea as a,l as e,na as i,o}from"./chunk-IWL33G3A.js";var n=class t{constructor(r){this.http=r}getTasks(){return this.http.get(`${i.apiUrl}/tasks`)}createTask(r){return this.http.post(`${i.apiUrl}/tasks`,r)}static \u0275fac=function(p){return new(p||t)(o(a))};static \u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})};export{n as a};

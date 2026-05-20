@@ -1,0 +1,1 @@
+import{B as e,l as i}from"./chunk-IWL33G3A.js";var o=class t{isLoading=e(!1);show(){this.isLoading.set(!0)}hide(){this.isLoading.set(!1)}static \u0275fac=function(a){return new(a||t)};static \u0275prov=i({token:t,factory:t.\u0275fac,providedIn:"root"})};export{o as a};
